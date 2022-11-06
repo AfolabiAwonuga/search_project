@@ -1,10 +1,10 @@
 ttt.py
 selin.py
 play.py
-Pipfile.lock
-Pipfile
+Pipfile*
 frankfurter_test.ipynb
 exchange_rate.py
 .ipynb_checkpoints
 search/search/spiders/test_play.py
 search/search/spiders/test.py
+uri*

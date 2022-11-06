@@ -25,6 +25,4 @@ thom_headers = {
                 'sec-gpc': '1',
                 'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36'
                 }
-
-MONGODB_URI = 'mongodb+srv://Afolabi:vp8ldXcRGXly9NfW@cluster0.jrizkxk.mongodb.net/?retryWrites=true&w=majority'
-# MONGO_DATABASE = 'engine'                        
+                      
